@@ -1,0 +1,10 @@
+Hallo,
+
+Sie (oder jemand anderes, der vorgibt, Ihre E-Mail-Adresse zu nutzen) haben das Projekt "{{ g.project.name }}" zur gemeinsamen Abrechnung von Ausgaben angelegt.
+
+Sie können über diesen Link darauf zugreifen: <{{ url_for(".list_bills", _external=True) }}> (der Projektbezeichner lautet "{{ g.project.id }}").
+Sofern sie Freunde oder Bekannte einladen wollen, können Sie entweder den Projektbezeichner und den privaten Code an sie senden, oder einfach den folgenden Link:
+<{{ url_for(".invite", _external=True) }}>
+
+Viel Spaß!
+Ein Haufen (bärtiger) komischer Typen
