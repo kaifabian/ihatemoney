@@ -23,7 +23,7 @@ msgid "Project name"
 msgstr "Projektname"
 
 msgid "Private code"
-msgstr "Privater Code"
+msgstr "Projektpasswort"
 
 msgid "Email"
 msgstr "E-Mail"
@@ -147,7 +147,7 @@ msgid "You either provided a bad token or no project identifier."
 msgstr "Ungültiges Token oder fehlender Projektbezeichner."
 
 msgid "This private code is not the right one"
-msgstr "Dieser private Code ist nicht korrekt"
+msgstr "Dieses Projektpasswort ist nicht korrekt"
 
 #, python-format
 msgid "You have just created '%(project)s' to share your expenses"
@@ -459,8 +459,8 @@ msgid ""
 "password by other communication means. Or even directly share the following "
 "link:"
 msgstr ""
-"Falls Sie möchten können sie den Projektbezeichner und den privaten Code\n"
-"auch auf anderem Weg verteilen, oder sogar den folgenden Link:"
+"Falls Sie möchten können Sie Projektbezeichner und -passwort\n"
+"auch auf anderem Weg verteilen, oder stattdessen den folgenden Link:"
 
 msgid "Who pays?"
 msgstr "Wer zahlt?"
