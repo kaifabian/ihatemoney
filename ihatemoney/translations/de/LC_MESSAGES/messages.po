@@ -1,0 +1,481 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+
+msgid ""
+"Not a valid amount or expression.Only numbers and + - * / operatorsare "
+"accepted."
+msgstr ""
+"Ungültiger Betrag oder Ausdruck. Nur Zahlen und die Operatoren +, -, * und / "
+"sind zulässig."
+
+msgid "Project name"
+msgstr "Projektname"
+
+msgid "Private code"
+msgstr "Privater Code"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Project identifier"
+msgstr "Projektbezeichner"
+
+msgid "Create the project"
+msgstr "Projekt erstellen"
+
+msgid ""
+"The project identifier is used to log in and for the URL of the project. We "
+"tried to generate an identifier for you but a project with this identifier "
+"already exists. Please create a new identifier that you will be able to "
+"remember"
+msgstr ""
+"Der Projektbezeichner wird für den Login in das Projekt sowie für dessen URL "
+"verwendet. Wir haben versucht, einen Projektbezeichner für Sie zu "
+"generieren, dieser war jedoch bereits belegt. Bitte erstellen Sie einen "
+"Projektbezeichner, an den Sie sich erinnern werden"
+
+msgid "Get in"
+msgstr ""
+
+msgid "Admin password"
+msgstr "Administrator-Passwort"
+
+msgid "Send me the code by email"
+msgstr "Mir den Code per E-Mail senden"
+
+msgid "This project does not exists"
+msgstr "Dieses Projekt existiert nicht"
+
+msgid "Password mismatch"
+msgstr "Falsches Passwort"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Password confirmation"
+msgstr "Passwortbestätitung"
+
+msgid "Reset password"
+msgstr "Passwort zurücksetzen"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "What?"
+msgstr "Was?"
+
+msgid "Payer"
+msgstr "Zahlender"
+
+msgid "Amount paid"
+msgstr "Betrag"
+
+msgid "For whom?"
+msgstr "Für wen?"
+
+msgid "Submit"
+msgstr "Absenden"
+
+msgid "Submit and add a new one"
+msgstr "Absenden und weiteren erfassen"
+
+msgid "Bills can't be null"
+msgstr "Rechnungen können nicht leer sein"
+
+msgid "Name"
+msgstr ""
+
+msgid "Weight"
+msgstr "Gewichtung"
+
+msgid "Weights should be positive"
+msgstr "Gewichtungen müssen positiv sein"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "User name incorrect"
+msgstr "Falscher Benutzername"
+
+msgid "This project already have this member"
+msgstr "Benutzer ist bereits Teil dieses Projekts"
+
+msgid "People to notify"
+msgstr "Zu benachrichtigende Benutzer"
+
+msgid "Send invites"
+msgstr "Einladungen senden"
+
+#, python-format
+msgid "The email %(email)s is not valid"
+msgstr "Die E-Mail-Adresse %(email)s ist ungültig"
+
+msgid "What do you want to download ?"
+msgstr "Was möchten Sie herunterladen?"
+
+msgid "bills"
+msgstr "Rechnungen"
+
+msgid "transactions"
+msgstr "Transaktionen"
+
+msgid "Export file format"
+msgstr "Export-Dateiformat"
+
+msgid "Too many failed login attempts, please retry later."
+msgstr ""
+"Zu viele ungültige Login-Versuche, bitte versuchen Sie es später noch einmal."
+
+#, python-format
+msgid "This admin password is not the right one. Only %(num)d attempts left."
+msgstr ""
+"Dieses Administrator-Passwort ist nicht korrekt. %(num)d weitere(r) "
+"Versuch(e)."
+
+msgid "You either provided a bad token or no project identifier."
+msgstr "Ungültiges Token oder fehlender Projektbezeichner."
+
+msgid "This private code is not the right one"
+msgstr "Dieser private Code ist nicht korrekt"
+
+#, python-format
+msgid "You have just created '%(project)s' to share your expenses"
+msgstr ""
+"Sie haben das Projekt '%(project)s' zur Verwaltung gemeinsamer Ausgaben "
+"erstellt"
+
+#, python-format
+msgid "%(msg_compl)sThe project identifier is %(project)s"
+msgstr "%(msg_compl)sDer Projektbezeichner lautet '%(project)s'"
+
+msgid "A link to reset your password has been sent to your email."
+msgstr ""
+"Ein Link zum Passwort-Rücksetzen wurde an Ihre E-Mail-Adresse gesendet."
+
+msgid "No token provided"
+msgstr "Kein Token übergeben"
+
+msgid "Invalid token"
+msgstr "Ungültiges Token"
+
+msgid "Unknown project"
+msgstr "Unbekanntes Projekt"
+
+msgid "Password successfully reset."
+msgstr "Passwort erfolgreich zurückgesetzt."
+
+msgid "Project successfully deleted"
+msgstr "Projekt erfolgreich gelöscht"
+
+#, python-format
+msgid "You have been invited to share your expenses for %(project)s"
+msgstr ""
+"Sie wurden eingeladen, ihre gemeinsamen Rechnungen im Projekt '%(project)s' "
+"zu teilen"
+
+msgid "Your invitations have been sent"
+msgstr "Ihre Einladungen wurden verschickt"
+
+#, python-format
+msgid "%(member)s had been added"
+msgstr "Benutzer %(member)s wurde hinzugefügt"
+
+#, python-format
+msgid "%(name)s is part of this project again"
+msgstr "%(name)s ist wieder Teil des Projekts"
+
+#, python-format
+msgid ""
+"User '%(name)s' has been deactivated. It will still appear in the users list "
+"until its balance becomes zero."
+msgstr ""
+"Benutzer '%(name)s' wurde deaktiviert. Er wird weiterhin in der "
+"Benutzerliste aufgeführt, bis der Saldo ausgeglichen ist."
+
+#, python-format
+msgid "User '%(name)s' has been removed"
+msgstr "Benutzer '%(name)s' wurde entfernt"
+
+#, python-format
+msgid "User '%(name)s' has been edited"
+msgstr "Benutzer '%(name)s' wurde geändert"
+
+msgid "The bill has been added"
+msgstr "Die Rechnung wurde hinzugefügt"
+
+msgid "The bill has been deleted"
+msgstr "Die Rechnung wurde gelöscht"
+
+msgid "The bill has been modified"
+msgstr "Die Rechnung wurde geändert"
+
+msgid "Sorry, we were unable to find the page you've asked for."
+msgstr "Entschuldigung, die gewünschte Seite konnte nicht gefunden werden."
+
+msgid "The best thing to do is probably to get back to the main page."
+msgstr "Vermutlich ist es am besten, wenn Sie zur Startseite zurückkehren."
+
+msgid "Back to the list"
+msgstr "Zurück zur Liste"
+
+msgid "Administration tasks are currently disabled."
+msgstr "Administrative Aufgaben sind derzeit deaktiviert."
+
+msgid "The project you are trying to access do not exist, do you want to"
+msgstr ""
+"Das Projekt, auf welches Sie versuchen zuzugreifen, existiert nicht. Möchten "
+"sie"
+
+msgid "create it"
+msgstr "es anlegen"
+
+msgid "?"
+msgstr ""
+
+msgid "Create a new project"
+msgstr "Neues Projekt anlegen"
+
+msgid "Project"
+msgstr "Projekt"
+
+msgid "Number of members"
+msgstr "Mitgliederanzahl"
+
+msgid "Number of bills"
+msgstr "Rechnungszahl"
+
+msgid "Newest bill"
+msgstr "Neueste Rechnung"
+
+msgid "Oldest bill"
+msgstr "Älteste Rechnung"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "edit"
+msgstr "ändern"
+
+msgid "delete"
+msgstr "löschen"
+
+msgid "The Dashboard is currently deactivated."
+msgstr "Die Verwaltungsoberfläche ist derzeit deaktiviert."
+
+msgid "you sure?"
+msgstr "Sind Sie sicher?"
+
+msgid "Edit this project"
+msgstr "Dieses Projekt ändern"
+
+msgid "Download this project's data"
+msgstr "Daten des Projekts herunterladen"
+
+msgid "Can't remember the password?"
+msgstr "Passwort vergessen?"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Edit the project"
+msgstr "Projekt ändern"
+
+msgid "Edit this bill"
+msgstr "Diese Rechnung ändern"
+
+msgid "Add a bill"
+msgstr "Rechnung hinzufügen"
+
+msgid "Select all"
+msgstr "Alle auswählen"
+
+msgid "Select none"
+msgstr "Nichts auswählen"
+
+msgid "Type user name here"
+msgstr "Benutzer eingeben"
+
+msgid "Edit this member"
+msgstr "Dieses Mitglied ändern"
+
+msgid "Send the invitations"
+msgstr "Einladungen versenden"
+
+msgid "No, thanks"
+msgstr "Nein, danke"
+
+msgid "Download"
+msgstr ""
+
+msgid "Manage your shared <br>expenses, easily"
+msgstr "Gemeinsame Rechnungen <br> einfach verwalten"
+
+msgid "Try out the demo"
+msgstr "Demo ausprobieren"
+
+msgid "You're sharing a house?"
+msgstr "Sie leben in einer Wohngemeinschaft?"
+
+msgid "Going on holidays with friends?"
+msgstr "Gemeinsamer Urlaub mit Freunden?"
+
+msgid "Simply sharing money with others?"
+msgstr "Sonstige gemeinsame Ausgaben mit Anderen?"
+
+msgid "We can help!"
+msgstr "Da können wir helfen!"
+
+msgid "Log to an existing project"
+msgstr "In existierendes Projekt einloggen"
+
+msgid "log in"
+msgstr "Einloggen"
+
+msgid "can't remember your password?"
+msgstr "Passwort vergessen?"
+
+msgid "or create a new one"
+msgstr "oder neues anlegen"
+
+msgid "let's get started"
+msgstr "Lassen sie uns loslegen"
+
+msgid ""
+"This access code will be sent to your friends. It is stored as-is by the "
+"server, so don\\'t reuse a personal password!"
+msgstr ""
+"Dieser Zugangscode wird an Ihre Freunde versendet und serverseitig im "
+"Klartext gespeichert, verwenden Sie also keines ihrer privaten Passwörter!"
+
+msgid "Account manager"
+msgstr "Benutzerverwaltung"
+
+msgid "Bills"
+msgstr "Rechnungen"
+
+msgid "Settle"
+msgstr "Abrechnen"
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+msgid "options"
+msgstr "Optionen"
+
+msgid "Project settings"
+msgstr "Projekteinstellungen"
+
+msgid "switch to"
+msgstr "Wechseln zu"
+
+msgid "Start a new project"
+msgstr "Neues Projekt erstellen"
+
+msgid "Logout"
+msgstr ""
+
+msgid "Dashboard"
+msgstr "Verwaltungsoberfläche"
+
+msgid "This is a free software"
+msgstr "Dies ist freie Software"
+
+msgid "you can contribute and improve it!"
+msgstr "Sie können zu ihr beitragen und sie verbessern!"
+
+msgid "deactivate"
+msgstr "Deaktivieren"
+
+msgid "reactivate"
+msgstr "Reaktivieren"
+
+msgid "Invite people to join this project!"
+msgstr "Jemanden zu diesem Projekt einladen!"
+
+msgid "Add a new bill"
+msgstr "Neue Rechnung hinzufügen"
+
+msgid "Added on"
+msgstr "Hinzugefügt am"
+
+msgid "When?"
+msgstr "Wann?"
+
+msgid "Who paid?"
+msgstr "Wer hat bezahlt?"
+
+msgid "For what?"
+msgstr "Wofür?"
+
+msgid "How much?"
+msgstr "Wie viel?"
+
+msgid "each"
+msgstr "je"
+
+msgid "Nothing to list yet. You probably want to"
+msgstr "Nichts anzuzeigen. Sie möchten wahrscheinlich"
+
+msgid "add a bill"
+msgstr "eine Rechnung hinzufügen"
+
+msgid "Password reminder"
+msgstr "Passwort-Erinnerung"
+
+msgid "Your projects"
+msgstr "Ihre Projekte"
+
+msgid "Reset your password"
+msgstr "Passwort zurücksetzen"
+
+msgid "Invite people to join this project"
+msgstr "Jemanden einladen, diesem Projekt beizutreten"
+
+msgid ""
+"Specify a (comma separated) list of email adresses you want to notify about "
+"the\n"
+"creation of this budget management project and we will send them an email "
+"for you."
+msgstr ""
+"Geben Sie eine (durch Komma getrennte) Liste von E-Mail-Adressen an, die Sie "
+"über\n"
+"die Erstellung dieses Projekts informieren wollen. Wir senden ihnen dann "
+"eine E-Mail\n"
+"in Ihrem Auftrag."
+
+msgid ""
+"If you prefer, you can share the project identifier and the shared\n"
+"password by other communication means. Or even directly share the following "
+"link:"
+msgstr ""
+"Falls Sie möchten können sie den Projektbezeichner und den privaten Code\n"
+"auch auf anderem Weg verteilen, oder sogar den folgenden Link:"
+
+msgid "Who pays?"
+msgstr "Wer zahlt?"
+
+msgid "To whom?"
+msgstr "Wem?"
+
+msgid "Who?"
+msgstr "Wer?"
+
+msgid "Paid"
+msgstr "Bezahlt"
+
+msgid "Spent"
+msgstr "Ausgegeben"
+
+msgid "Balance"
+msgstr "Saldo"
